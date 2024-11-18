@@ -18,11 +18,11 @@ To better support the students, I divided them into three groups based on their 
   **Resources for Students:**
   - **Articles and Resources:**
     - [Hospital Management Using Python with Source Code](https://www.codewithcurious.com): Discusses implementing a hospital management system using the Flask framework in Python.
-    - [Patient Record Management System Project in Python](https://www.sourcecodester.com): A Python-based project that focuses on building a patient record management system.
+    - [Patient Record Management System Project in Python](https://www.sourcecodester.com/python/14534/patient-record-management-system-project-python.html): A Python-based project that focuses on building a patient record management system.
   
   - **GitHub Repositories:**
-    - [EHR-django](https://github.com): An Electronic Health Record system developed using Django that could serve as a reference for building similar systems.
-    - [hospital-management-emr](https://github.com): An open-source hospital management system for reference.
+    - [EHR-django](https://github.com/MohsinRazaKhanSipra/EHR-django): An Electronic Health Record system developed using Django that could serve as a reference for building similar systems.
+    - [hospital-management-emr](https://github.com/opensource-emr/hospital-management-emr): An open-source hospital management system for reference.
 
 #### Project 2: Disease Diagnosis System Based on Symptoms
 
@@ -32,12 +32,12 @@ To better support the students, I divided them into three groups based on their 
 
   **Resources for Students:**
   - **Articles and Resources:**
-    - [Disease Prediction Using Machine Learning](https://www.geeksforgeeks.org): This article explores how machine learning algorithms can be used to predict diseases based on symptoms.
-    - [Disease-prediction-using-expert-systems](https://github.com): A GitHub repository containing an expert system for disease prediction based on symptoms.
+    - [Disease Prediction Using Machine Learning](https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/): This article explores how machine learning algorithms can be used to predict diseases based on symptoms.
+    - [Disease-prediction-using-expert-systems](https://github.com/tanuj62/disease-prediction-using-expert-systems): A GitHub repository containing an expert system for disease prediction based on symptoms.
   
   - **GitHub Repositories:**
-    - [Disease-Symptom-Prediction-Chatbot](https://github.com): A chatbot that predicts diseases using machine learning and natural language processing, ideal for understanding how to implement disease prediction systems.
-    - [Medical-Diagnosis-Expert-System](https://github.com): A system developed using Python to diagnose diseases based on symptoms.
+    - [Disease-Symptom-Prediction-Chatbot]([https://github.com](https://github.com/zzak00/Disease-Symptom-Prediction-Chatbot)): A chatbot that predicts diseases using machine learning and natural language processing, ideal for understanding how to implement disease prediction systems.
+    - [Medical-Diagnosis-Expert-System](https://github.com/Victor-Titan/Medical-Diagnosis-Expert-System): A system developed using Python to diagnose diseases based on symptoms.
 
 #### Project 3: Drug Prescription Recommendation System
 
@@ -51,8 +51,8 @@ To better support the students, I divided them into three groups based on their 
     - [A Review of Drug Recommender Systems with Machine Learning Approaches](https://link.springer.com/article/10.1007/s10462-019-09732-w): Reviews drug recommender systems using machine learning, valuable for building advanced recommendation systems.
   
   - **GitHub Repositories:**
-    - [Drug-Interaction-Checker](https://github.com): A Python-based system for checking drug interactions, a useful reference for building drug recommendation systems.
-    - [Medication-Recommendation-System](https://github.com): A recommendation system that uses machine learning to suggest medications based on user data.
+    - [Drug-Interaction-Checker](https://github.com/shahwan42/drug-interaction-checker): A Python-based system for checking drug interactions, a useful reference for building drug recommendation systems.
+    - [Medication-Recommendation-System](https://github.com/anurag-b72/medicine-recommendation-system): A recommendation system that uses machine learning to suggest medications based on user data.
 
 ### Common Focus Across Projects
 
