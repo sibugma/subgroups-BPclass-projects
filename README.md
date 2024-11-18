@@ -47,8 +47,8 @@ To better support the students, I divided them into three groups based on their 
 
   **Resources for Students:**
   - **Articles and Resources:**
-    - [Drug-Drug Interaction Prediction Based on Clinical Data](https://www.sciencedirect.com/science/article/pii/S1877050919318980): Discusses predicting drug interactions based on clinical data, helping to develop a drug recommendation system.
-    - [A Review of Drug Recommender Systems with Machine Learning Approaches](https://link.springer.com/article/10.1007/s10462-019-09732-w): Reviews drug recommender systems using machine learning, valuable for building advanced recommendation systems.
+    - [Drug-Drug Interaction Prediction Based on Clinical Data](https://www.sciencedirect.com/science/article/pii/S2589004224003699): Discusses predicting drug interactions based on clinical data, helping to develop a drug recommendation system.
+    - [A Review of Drug Recommender Systems with Machine Learning Approaches](https://link.springer.com/chapter/10.1007/978-3-031-59091-7_15): Reviews drug recommender systems using machine learning, valuable for building advanced recommendation systems.
   
   - **GitHub Repositories:**
     - [Drug-Interaction-Checker](https://github.com/shahwan42/drug-interaction-checker): A Python-based system for checking drug interactions, a useful reference for building drug recommendation systems.
